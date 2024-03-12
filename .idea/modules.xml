@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/testApp/config-server/config-server.iml" filepath="$PROJECT_DIR$/testApp/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testApp/discovery/discovery.iml" filepath="$PROJECT_DIR$/testApp/discovery/discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testApp/gateway/gateway.iml" filepath="$PROJECT_DIR$/testApp/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testApp/microservice-commandes/mcommandes.iml" filepath="$PROJECT_DIR$/testApp/microservice-commandes/mcommandes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice_musers/microservice_musers.iml" filepath="$PROJECT_DIR$/microservice_musers/microservice_musers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testApp/microservice-panier/mpanier.iml" filepath="$PROJECT_DIR$/testApp/microservice-panier/mpanier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testApp/microservice-produits/mproduits.iml" filepath="$PROJECT_DIR$/testApp/microservice-produits/mproduits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/testApp.iml" filepath="$PROJECT_DIR$/.idea/testApp.iml" />
+    </modules>
+  </component>
+</project>
